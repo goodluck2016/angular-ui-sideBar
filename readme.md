@@ -7,7 +7,7 @@ Angular Screenfull
 
 #### Download via bower or look for the files in the dist folder
 
-    $ bower install angular-ui-sideBar
+    bower install --save-dev angular-ui-sideBar
 
 #### Import it to your page
 
